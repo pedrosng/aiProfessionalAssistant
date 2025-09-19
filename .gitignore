@@ -1,0 +1,31 @@
+# ---------------------------
+# General
+# ---------------------------
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.idea/
+*.vscode/
+*.iml
+
+# ---------------------------
+# Java / Spring Boot
+# ---------------------------
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+hs_err_pid*
+replay_pid*
+
+# Maven
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.properties
+.mvn/timing
