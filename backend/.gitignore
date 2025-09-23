@@ -1,0 +1,7 @@
+server/.gitattributes
+server/.gitignore
+server/build.gradle
+server/gradle/
+server/gradlew
+server/gradlew.bat
+server/settings.gradle
